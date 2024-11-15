@@ -1,0 +1,12 @@
+.track {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .button {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
